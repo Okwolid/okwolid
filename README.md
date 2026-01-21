@@ -1,7 +1,9 @@
 👋 Hi, I'm Daniel Eleojo Okwoli
 Software QA Engineer | QA Enthusiast | Manual & Automation Testing
 
+
 Welcome to my QA portfolio. I am a detail-oriented QA enthusiast with hands-on experience in manual testing of web and mobile applications and growing experience in test automation. I am passionate about understanding products deeply, identifying real-world issues, and helping teams ship reliable, high-quality software.
+
 
 🧠 About Me
 
